@@ -25,6 +25,6 @@ Conclusion
 This project provides valuable insights into the sales performance of a coffee shop, enabling data-driven decision-making to improve operations and boost sales. The dynamic dashboard offers an intuitive and interactive way to explore the data, making it a useful tool for both analysts and decision-makers.
 Connect with Me
 LinkedIn:https://www.linkedin.com/in/ankit-kumar-456975167/
-GitHub:
+GitHub:https://github.com/Ankit-KumarVARCHAR
 Feel free to connect with me for more information or collaboration opportunities!
 
